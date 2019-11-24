@@ -1,0 +1,27 @@
+GDI32.dll
+
+gdi32.dll contains functions for the Windows GDI (Graphical Device Interface) which assists windows in creating simple 2D objects
+
+
+gdi32.dll contains machine code, if you start the software Microsoft Windows on your PC,
+the commands contained in gdi32.dll will be executed on your PC.
+For this purpose, the file is loaded into the main main memory (RAM) and runs there
+as a Windows GDI Client DLL process
+
+
+
+
+GDI32.DLL 
+exports Graphics Device Interface (GDI) functions that perform primitive drawing functions
+for output to video displays and pinters. It is used, for example, in the XP version of Paint.
+
+Applications call GDI functions directly to perform low-level drawing (line, rectangle, ellipse),
+text output, font management, and similiar functions 
+
+Initially, GDI supported 16 and 256 color EGA/VGA display cards and monochrome printers. 
+
+
+
+https://www.processlibrary.com/en/directory/files/gdi32/18935/
+https://en.wikipedia.org/wiki/Microsoft_Windows_library_files
+
